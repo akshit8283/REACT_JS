@@ -3,6 +3,8 @@ import img from "./image/6.jpeg"
 import img1 from "./image/7.jpeg"
 import img2 from "./image/8.jpeg"
 
+
+
 const Slider = () => {
     return (
         <>
